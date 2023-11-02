@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Hello World Test",
+      "setup": "",
+      "run": "go run main.go",
+      "input": "",
+      "output": "Hello World",
+      "comparison": "exact",
+      "timeout": 2,
+      "points": 10
+    }
+  ]
+}
